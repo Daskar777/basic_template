@@ -20,7 +20,7 @@
 	 
 	 git push -u origin main
      
-     
+     git clone https://some_link   // клонування репозиторію  //git clone https://github.com/Daskar777/basic_template.git //basic_template
      
      
      #Установим имя для вашего пользователя
