@@ -1,0 +1,34 @@
+    
+
+	 git init             // створення локальної репозиторії в схованому файлі .git
+	 
+     git status           // перевырка статусу слідкування і тп
+	 
+     git add * //або git add . //або git add --all  // git add -A  // додати слідкування за всіма файлами
+     
+     в файлі .gitignore пишемо файли які будемо ігнорувати
+     
+     git commit -m "my first commit"      // перший коміт  
+     
+     git branch some_branch     // створення додаткових branch
+     
+     git checkout some_branch   // перейти на  branch some_branch
+     
+     git remote add origin https://some_link // пул локального git на github
+	 
+	 git branch -M main
+	 
+	 git push -u origin main
+     
+     
+     
+     
+     #Установим имя для вашего пользователя
+     #Вместо <ваше_имя> можно ввести, например, Grisha_Popov
+     #Кавычки оставляем
+	 
+     git config --global user.name "<ваше_имя>"
+     #Теперь установим email. Принцип тот же.
+     git config --global user.email "<адрес_почты@email.com>"
+     
+
