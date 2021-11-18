@@ -1,10 +1,11 @@
+
+
+
+Новий проект з файлом package.json команда npm install , перед нею npm init
+
+
 npm i gulp -g
 npm init
 npm i gulp --save-dev
 npm i gulp-sass --save-dev
 npm i browser-sync --save-dev
-
-
-новий проект з файлом package.json команда npm install
-
-
